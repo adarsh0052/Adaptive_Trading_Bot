@@ -1,4 +1,4 @@
-#🤖 Adaptive_Trading_Bot
+# 🤖 Adaptive_Trading_Bot
  
 
 A Python-based autonomous trading simulator built with **Streamlit**. 
